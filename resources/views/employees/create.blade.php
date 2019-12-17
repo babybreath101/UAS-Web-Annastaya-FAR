@@ -1,4 +1,4 @@
-@extends('')
+git init@extends('')
 @section('employees','active')
 @section('')
 <form action="{{route('employees.store')}}" method="POST">
